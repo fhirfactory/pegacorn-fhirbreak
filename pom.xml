@@ -21,7 +21,7 @@
         <module>../pegacorn-fhirbreak-corpservices</module>
     </modules>
 
-    <name>DRICATS :: FHIRBreak</name>
+    <name>DRICaTS :: FHIRBreak</name>
     <dependencies>
         <dependency>
             <groupId>javax.enterprise</groupId>
