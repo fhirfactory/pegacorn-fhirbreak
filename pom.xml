@@ -19,7 +19,7 @@
 
     <modules>
         <module>../pegacorn-fhirbreak-corpservices</module>
-        <module>../dricats-fhirbreak-files</module>
+        <!-- <module>../dricats-fhirbreak-files</module> -->
     </modules>
 
     <name>Pegacorn :: FHIRBreak</name>
